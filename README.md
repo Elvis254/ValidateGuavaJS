@@ -1,2 +1,2 @@
-# ValidateGuavaJS
-Add-on to jQuery Validation to enable unobtrusive validation options in data-* attributes.
+# Validate Guava JS
+The Validate Guava JS library complements jQuery Validation by adding support for specifying validation options as HTML5 data-* elements.
